@@ -1,9 +1,20 @@
 ### [MiXplorer](https://mixplorer.com/)
 
-#### Install
+#### Install manually
 
-Download the [dracula-mixplorer.mit](https://github.com/dracula/mixplorer/releases/latest/download/dracula-mixplorer.mit) file.
+Download the `dracula-mixplorer.mit` file, from the latest [release](https://github.com/dracula/mixplorer/releases)
 
 #### Activating theme
-1. Open MiXplorer, select the `dracula-mixplorer.mit` file,
-2. Then click `Import` or click `Copy to...`
+
+Open MiXplorer, select the file `dracula-mixplorer.mit` then select `Import`
+
+#### Troubleshooting
+
+If the theme is not applying properly, follow this method [here](https://github.com/dracula/mixplorer/wiki/Troubleshooting#fixtheme)
+
+<!-- 
+<details>
+    <summary>If the theme is not applying properly, follow this method</summary>
+    <img src="./fixtheme.gif" alt="Fix Theme">
+</details>
+ -->

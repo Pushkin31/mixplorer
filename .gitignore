@@ -1,14 +1,4 @@
-# files test
-*.zip
-*.bat
-*.log
+/.history
 *.bak
-*.ini
-*.lnk
-*tmp*
-*test*
-
-# local repo
-.vscode
-release
-tools
+*.mit
+*.zip
