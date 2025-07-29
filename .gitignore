@@ -1,4 +1,9 @@
-/.history
-*.bak
+/build
+/tests
+/test
+*.7z
+*.lnk
 *.mit
+*.tmp
 *.zip
+release_notes.*
